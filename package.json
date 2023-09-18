@@ -1,0 +1,12 @@
+{
+  "name": "trabajo-sistemas-operativos",
+  "version": "0.0.0",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "firebase-admin": "^10.2.0",
+    "formidable": "^2.0.1",
+    "googleapis": "^100.0.0"
+  },
+  "type": "module",
+  "scripts": {"start":"node src/server/server.js"}
+}
